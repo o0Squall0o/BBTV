@@ -18,6 +18,32 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: 14 FAMILY
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214865.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ANI PLUS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214801.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ANIMAL PLANET
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214802.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ANIMAX HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214803.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASIAN FOOD CHANNEL
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214804.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO AEC HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO ARENA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142601.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO Awani
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214805.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO CERIA
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214806.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO Cricket HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214785.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO OASIS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214807.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO PRIMA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214808.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO SHUANG XING HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214810.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO SUPERSPORTS 1 FHD
 http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142606.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO SUPERSPORTS 2 FHD
@@ -26,6 +52,197 @@ http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142607.m3u8
 http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142608.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO SUPERSPORTS 4 FHD
 http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142609.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO TARA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142610.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO VAANAVIL HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO VINMEEN HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142612.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO WARNA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142613.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO XI YUE
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142614.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: ASTRO XIAO TAI YANG
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142615.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: AXN HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142616.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BABY FIRST
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142617.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BBC EARTH HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142618.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BBC LIFESTYLE
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142619.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BLUE ANT EXTREME
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142621.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BOLLY ONE HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: BOOMERANG HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214816.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: CARTOON Cult
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214867.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: CARTOON NETWORK
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214817.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: CELESTIAL MOVIES
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214818.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: Channel News Asia (SG)
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/156135.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: CINEMA WORLD HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214819.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: Discovery CHANNEL
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214820.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: DISNEY CHANNEL
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214821.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: DISNEY JR
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214822.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: DISNEY XD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: DIVA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214824.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: DUNIA SINEMA
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214825.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: E!
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214826.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: EVERY GOOD GAME HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214827.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOM MOVIES ACTION HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214830.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX FAMILY MOVIES HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214828.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX LIFE HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214829.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX MOVIES HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214831.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX MOVIES PREMIUM
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214832.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX SPORTS 1
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214833.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX SPORTS 2
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214834.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX SPORTS 3
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214835.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FOX TV HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214836.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: FX CINEMA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214837.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: GNIX SPORTS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214838.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: HGTV
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214839.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: HITS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214840.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: HYPP SENSASI
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214841.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: JAYA MAX APAC Plus
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214842.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: K PLUS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214843.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: KIX
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214844.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: MTV ASIA
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214845.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: MUTV HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214846.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NAT GEO HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NAT GEO PEOPLE HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214848.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NAT GEO WILD HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214849.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NICK
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214851.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: Nick Junior
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214850.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: Nimo TV
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214866.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NOW TV CHINESE
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214852.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: NTV7
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214853.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: OHIK
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214854.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: PARAMAUNT CHANNEL
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214855.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: PESONA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214856.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: RED HBO HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214857.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SETANTA SPORTS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214858.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SETi CHINESE
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214859.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET Baby TV
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214860.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET Dmax
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214861.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET Fox Action Movies HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214862.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET MTV China
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214863.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET Music
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214864.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET SPORTS 1
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/74627.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET SPORTS 3
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/74629.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET SPORTS 4
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/114868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET SPORTS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/146025.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SKYNET ZEE TV
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214868.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SONY ONE HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142636.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SONY SAB APAC Plus
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142637.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SONY SETMAX APAC Plus
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142638.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SONY TV APAC Plus
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: SPORT DREAM WORKS HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214869.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: STAR CHINESE CHANNEL HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/142642.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: STAR VIJAY APAC Plus
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214870.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TLC
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214871.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TRAVEL CHANNEL HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214872.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV ALHIJRA
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214873.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV1
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214874.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV2
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV3
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214876.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV8
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214877.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TV9
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214878.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TVN HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214879.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: TVN MOVIES
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214880.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: Warner Bros HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214881.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA VIP",MY: WWE NETWORK HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214882.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",###### MALAYSIA ######
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/213655.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: ASTRO RIA HD
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214809.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: beIN Sports
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/214815.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: GO SHOP 1
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/216270.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: GO SHOP 2
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/216271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: SKYNET SPORTS 2
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/146020.m3u8
+#EXTINF:0 tvg-id="ext" group-title="MALAYSIA",MY: SKYNET SPORTS 6
+http://dibo.live:8080/live/abei1988-phuisycv/3AK9oEnhJ4/146024.m3u8
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
