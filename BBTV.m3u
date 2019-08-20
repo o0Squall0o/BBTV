@@ -58,8 +58,12 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="Malaysia",TV Ikim (Opt-3)
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie",Nation Geography
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movie",周星弛电影台HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8z
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
