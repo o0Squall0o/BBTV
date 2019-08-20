@@ -18,39 +18,13 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="Singapore",Vasantham
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
-#EXTM3U
-#EXTINF:-1,CN: CCTV9
-http://iptv-line.com:6969/master.280/makchange3ksl/2270
-#EXTINF:-1,CN: CCTV8
-http://iptv-line.com:6969/master.280/makchange3ksl/2269
-#EXTINF:-1,CN: CCTV7
-http://iptv-line.com:6969/master.280/makchange3ksl/2268
-#EXTINF:-1,CN: CCTV6
-http://iptv-line.com:6969/master.280/makchange3ksl/2267
-#EXTINF:-1,CN: CCTV5
-http://iptv-line.com:6969/master.280/makchange3ksl/2266
-#EXTINF:-1,CN: CCTV4
-http://iptv-line.com:6969/master.280/makchange3ksl/2265
-#EXTINF:-1,CN: CCTV3
-http://iptv-line.com:6969/master.280/makchange3ksl/2264
-#EXTINF:-1,CN: CCTV2
-http://iptv-line.com:6969/master.280/makchange3ksl/2263
-#EXTINF:-1,CN: CCTV1HD
-http://iptv-line.com:6969/master.280/makchange3ksl/2262
-#EXTINF:-1,CN: CCTV15
-http://iptv-line.com:6969/master.280/makchange3ksl/2276
-#EXTINF:-1,CN: CCTV14
-http://iptv-line.com:6969/master.280/makchange3ksl/2275
-#EXTINF:-1,CN: CCTV13
-http://iptv-line.com:6969/master.280/makchange3ksl/2274
-#EXTINF:-1,CN: CCTV12
-http://iptv-line.com:6969/master.280/makchange3ksl/2273
-#EXTINF:-1,CN: CCTV11
-http://iptv-line.com:6969/master.280/makchange3ksl/2272
-#EXTINF:-1,CN: CCTV10
-http://iptv-line.com:6969/master.280/makchange3ksl/2271
-#EXTINF:-1,CN: CCTV 5
-http://iptv-line.com:6969/master.280/makchange3ksl/1910
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="MALAYSIA",Astro SuperSport
+http://playbackn15.aotg-video.astro.com.my/CH1/master_AG4_8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_300.png" group-title="MALAYSIA",Astro SuperSport 2
+http://playbackn15.aotg-video.astro.com.my/CH2/master_AG5_8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://soombo.com/assets/images/200_1447488887.png" group-title="MALAYSIA",Astro SuperSport 3
+http://playbackn15.aotg-video.astro.com.my/CH3/master_AG6_8.m3u8
 
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
