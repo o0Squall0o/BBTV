@@ -31,7 +31,7 @@ http://playbackn18.aotg-video.astro.com.my/CH1/master_VAAN_8_05.m3u8
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Malaysia",CinemaWorld
 http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Vy0PPFD.jpg" group-title="Malaysia",Gem TV Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="Malaysia",Gem TV Asia
 http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IKIM MY" tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="Malaysia",IKIM MY
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8?fbclid=IwAR2pQ3EzRJ2pUfAogiUoBq_GXfBINwLnPV7zbDflZHqiexMerygAaQN8z88
@@ -58,13 +58,15 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="Malaysia",TV Ikim (Opt-3)
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie",HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movie",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movie",Nation Geography
-rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movie",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movie",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Learning",National Geographic
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
