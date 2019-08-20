@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="Singapore",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="Singapore",Channel 8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sgcustomerservicenumbers.com/wp-content/uploads/2017/06/Channel-8-Logo.png" group-title="Singapore",Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.sopasia.com/wp-content/uploads/2014/04/300-x-120-CNA-logo-1.jpg" group-title="Singapore",Channel NewsAsia [EN][432p]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://infographics.channelnewsasia.com/interactive/tapestry-asean/assets/THPHsc1wKP/cna-logo-690x132.png" group-title="Singapore",Channel NewsAsia [EN][432p]
 https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="Singapore",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
@@ -58,15 +58,15 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="Malaysia",TV Ikim (Opt-3)
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movie",HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movies",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movie",HBO 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movie",周星弛电影台HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movies",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
-#EXTINF:tvg-logo=“https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg“,KIX HD (Malaysia)
+#EXTINF:tvg-logo=“https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg“ group-title="Movies",KIX HD (Malaysia)
 http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF:tvg-logo=““,RAI MOVIE HD
+#EXTINF:tvg-logo=“https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg“ group-title="Movies",RAI MOVIE HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 
