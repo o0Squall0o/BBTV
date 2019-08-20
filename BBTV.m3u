@@ -64,9 +64,17 @@ http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movie",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo=“https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg“,KIX HD (Malaysia)
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:tvg-logo=““,RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Learning",National Geographic
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+#EXTINF:tvg-logo=“http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220“ group-title="Documentary",THRILL (Malaysia)
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
