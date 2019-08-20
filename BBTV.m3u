@@ -67,8 +67,10 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="Dramas",FRIENDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="24/7 Series",FRIENDS
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="24/7 Series",周星弛电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
@@ -83,19 +85,17 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",港好莱电影轮播 3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",CCTV-6 电影
-http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8?adapt=0&BR=audio
+http://cctv.v.kcdnvip.com/live/cctv6_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv6.jpg" group-title="Movies",CCTV-6 电影
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",CCTV-6 电影
-http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8?adapt=0&BR=audio
+http://cctv.v.myalicdn.com/live/cctv6_1audio.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",NewTV Super Movie
 http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movies",HBO
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="Movies",周星弛电影台HD
-http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg" group-title="Movies",KIX HD (Malaysia)
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:tvg-logo="https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg" group-title="Movies",RAI MOVIE HD
