@@ -74,7 +74,11 @@ http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjQ3OjAwIEFNJmhhc2hfdmFsdWU9TGRvWkh1dVdnRy9WWlpXL2Y1ZmlRZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel
 http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjUyOjAzIEFNJmhhc2hfdmFsdWU9N3NWOEx1a0xoYWY2dEZDSVVYRTJhdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Miao Mi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons
+http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjAxOjExIEFNJmhhc2hfdmFsdWU9UFVNS0NaeWw1MnFiTUxVRzZpRGN0QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon
+http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjA0OjE5IEFNJmhhc2hfdmFsdWU9QlVaakl6VHdEbWZJblV1WVo1VGp5UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="24/7 Series",FRIENDS
