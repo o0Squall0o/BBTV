@@ -63,6 +63,12 @@ http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI0OjIzIEFNJmhhc2hfdmFsdWU9SUxyNFJyblJFMklsVlArUGYvd2ppQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="" group-title="International",BBC America
 http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI1OjMxIEFNJmhhc2hfdmFsdWU9STI4MFFZYXRBRjZxWHZyZWRlOXNXQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="International",CNN
+http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:tvg-logo="" group-title="International",Game Show Network
+http://live.savitar.tv/GSN/myStream/chunks.m3u8?nimblesessionid=27464823&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMxOjI1IEFNJmhhc2hfdmFsdWU9RmNjbzg0TVB1NXBOeWhOOTdBcnlDUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:tvg-logo="" group-title="International",Paramount Network
+http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=27464083&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI4OjQwIEFNJmhhc2hfdmFsdWU9YjJ4ZnpVbFZ6aCtHNzhEMGxINnNqZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png" group-title="International",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="International",CBN
@@ -576,9 +582,13 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2018/08/logo_v2beat_page_small.png" group-title="Music",V2Beat
 http://de1se01.v2beat.live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",DIY
+http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=27464616&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMwOjIxIEFNJmhhc2hfdmFsdWU9R281b0FCcFhydWRZY0pITittZGZsQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Style HD TV5Monde
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
 
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN
+http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2016/04/Sky-News-1200x600.jpg" group-title="News",SKY NEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",港凤凰中文
