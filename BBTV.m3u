@@ -65,7 +65,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Adult Swim
-http://get.123tv.live/channel/cartoonnetwork.m3u8
+http://sv3.dailymotion.com.1cdn.host/live/ctnw/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Adult Swim 2
 http://get.123tv.live/channel/240/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids / Cartoons",Adult Swim Animation Marathon
