@@ -91,6 +91,8 @@ http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg" group-title="24/7 Series",Tom & Jerry
+https://www.youtube.com/watch?v=9KZKJpOPo_E
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="24/7 Series",FRIENDS
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="24/7 Series",周星弛电影台HD
