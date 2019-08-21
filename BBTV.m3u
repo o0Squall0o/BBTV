@@ -583,6 +583,10 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",WWE SONY LIV
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Electro House & Bass Boosted
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566423874/ei/4mZdXZH_GJLNz7sPoM2HkAM/ip/103.241.62.76/id/-51fpdC2ntU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhANu7xEMyrwNwrgH45ae6PTOkHnK1RApIiaBLpdSMcpKmAiEA438y16Z7ABRerqsVTQvHsXbMzgLAw_tCGBkY3ubMzK4%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Tropical House Radio | Kygo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566423680/ei/IGZdXZmkEoHKoQOFnr_4Cg/ip/103.241.62.76/id/Wl2mrlhE5Ww.307/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAO_vbk5Y3_SiX-p8o97z1kishIiFebhixwBsjH727J31AiEA8TNQlKJDCTxLJc-JCr5Rz9JkwOgfdFirmcRUBfcGxS0%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV HD
 http://live.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjEzOjM3IEFNJmhhc2hfdmFsdWU9SGYycnl6cDFwR3FEbjdxYVFJYnBpZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV
