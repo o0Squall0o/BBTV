@@ -59,15 +59,15 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-6pSBtNgrh5s/Wj9h7ZoApNI/AAAAAAAAJ2k/iauSGlk4KD8eoH05Ruyf3qiDRMAeeqGgACLcBGAs/s1600/tvikim.jpg" group-title="Malaysia",TV Ikim (Opt-3)
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
-#EXTINF:tvg-logo="" group-title="International",Comedy Central
+#EXTINF:tvg-logo="https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png" group-title="International",Comedy Central
 http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI0OjIzIEFNJmhhc2hfdmFsdWU9SUxyNFJyblJFMklsVlArUGYvd2ppQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="" group-title="International",BBC America
+#EXTINF:tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/bbc-america-logo1.jpg" group-title="International",BBC America
 http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI1OjMxIEFNJmhhc2hfdmFsdWU9STI4MFFZYXRBRjZxWHZyZWRlOXNXQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="International",CNN
 http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="" group-title="International",Game Show Network
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="International",Game Show Network
 http://live.savitar.tv/GSN/myStream/chunks.m3u8?nimblesessionid=27464823&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMxOjI1IEFNJmhhc2hfdmFsdWU9RmNjbzg0TVB1NXBOeWhOOTdBcnlDUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="" group-title="International",Paramount Network
+#EXTINF:tvg-logo="https://www.paramount.com/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="International",Paramount Network
 http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=27464083&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI4OjQwIEFNJmhhc2hfdmFsdWU9YjJ4ZnpVbFZ6aCtHNzhEMGxINnNqZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png" group-title="International",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
@@ -139,9 +139,9 @@ http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIxOjMxIEFNJmhhc2hfdmFsdWU9MVhnQ1ZMczRBbUJ3RE9COTVaUGlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:tvg-logo="" group-title="Documentary",Investigation Discovery
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery
 http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIzOjI2IEFNJmhhc2hfdmFsdWU9cll2cmhVN0xvK1FyWlUyMHQ0WGMvUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="" group-title="Documentary",History
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="Documentary",History
 http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIyOjM2IEFNJmhhc2hfdmFsdWU9bEt5QWlYRGZIYkYzWlFTWW5MTnZHdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
