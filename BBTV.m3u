@@ -552,6 +552,8 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV HD
+http://live.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjEzOjM3IEFNJmhhc2hfdmFsdWU9SGYycnl6cDFwR3FEbjdxYVFJYnBpZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.medicinema-italia.org/wp-content/uploads/2017/09/RMC.jpg" group-title="Music",Radio Monte Carlo
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
