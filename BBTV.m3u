@@ -68,8 +68,8 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://live.savitar.tv:80/CN/myStream/chunks.m3u8?nimblesessionid=27443039&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDk6NTk6MjYgQU0maGFzaF92YWx1ZT04MnJmclFiYmFDbTV0YzF2UXhtTllRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang
 http://live.savitar.tv/Boomerang/myStream/chunks.m3u8?nimblesessionid=27451812&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjM5OjIzIEFNJmhhc2hfdmFsdWU9TWc2Tk9HRSsxcFRZeDFKOHdoam1GQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/us/AdultSwimOnAir.us.png" group-title="Kids / Cartoons",Adult Swim Animation Marathon
-http://amd.cdn.turner.com/adultswim/big/streams/playlists/animated-marathon.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior
+http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjQzOjI3IEFNJmhhc2hfdmFsdWU9UkFFVXB4VWVoL3VNcytmZXRTVExhQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
