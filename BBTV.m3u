@@ -70,6 +70,10 @@ http://live.savitar.tv:80/CN/myStream/chunks.m3u8?nimblesessionid=27443039&wmsAu
 http://live.savitar.tv/Boomerang/myStream/chunks.m3u8?nimblesessionid=27451812&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjM5OjIzIEFNJmhhc2hfdmFsdWU9TWc2Tk9HRSsxcFRZeDFKOHdoam1GQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior
 http://live.savitar.tv/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjQzOjI3IEFNJmhhc2hfdmFsdWU9UkFFVXB4VWVoL3VNcytmZXRTVExhQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids / Cartoons",Disney XD
+http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjQ3OjAwIEFNJmhhc2hfdmFsdWU9TGRvWkh1dVdnRy9WWlpXL2Y1ZmlRZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel
+http://live.savitar.tv/Disney/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
