@@ -598,7 +598,7 @@ http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=27464616&wmsAuth
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",TVBS新聞台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566422750/ei/fWJdXdSiLcem1Aasz5OwAQ/ip/103.241.62.76/id/Hu1FkdAOws0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhANqILkXSIhKzZSPTnHMisXMQucCAV1mVAV8pIvk0QSuQAiEAgkJ5eFPSh-ws_BFzz92CtEgYAL6V1bIfu-UXb1YFzDQ%3D/file/index.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566422750/ei/fWJdXdSiLcem1Aasz5OwAQ/ip/103.241.62.76/id/Hu1FkdAOws0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhANqILkXSIhKzZSPTnHMisXMQucCAV1mVAV8pIvk0QSuQAiEAgkJ5eFPSh-ws_BFzz92CtEgYAL6V1bIfu-UXb1YFzDQ%3D/file/index.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN
 http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2016/04/Sky-News-1200x600.jpg" group-title="News",SKY NEWS HD
