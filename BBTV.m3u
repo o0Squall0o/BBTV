@@ -165,7 +165,7 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild
 http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjE4OjE1IEFNJmhhc2hfdmFsdWU9VDFIcEZ0Qko0Y29ZanJ2ODhPQ3BzQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery HD
-http://live.savitar.tv/Discovery/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIxOjMxIEFNJmhhc2hfdmFsdWU9MVhnQ1ZMczRBbUJ3RE9COTVaUGlCUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery (US)
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery
