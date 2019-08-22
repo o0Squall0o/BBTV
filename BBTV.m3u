@@ -65,20 +65,14 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14762.m3u8
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/26270.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="International",CNN
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3995.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="International",Game Show Network
-http://live.savitar.tv/GSN/myStream/chunks.m3u8?nimblesessionid=27464823&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMxOjI1IEFNJmhhc2hfdmFsdWU9RmNjbzg0TVB1NXBOeWhOOTdBcnlDUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="https://www.paramount.com/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="International",Paramount Network
-http://live.savitar.tv/Paramount/myStream/chunks.m3u8?nimblesessionid=27464083&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI4OjQwIEFNJmhhc2hfdmFsdWU9YjJ4ZnpVbFZ6aCtHNzhEMGxINnNqZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/200px-CBS_logo.svg.png" group-title="International",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="International",CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (SE)
-http://cloudcdn.tk:80/live/f7RNqSADpx/JhaAhuFMtn/11551.m3u8
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network HD(US)
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/pagefilms.com/wp-content/uploads/2017/03/PFn-CNAS.jpg" group-title="Kids / Cartoons", Adult Swim (US Cartoon Network)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang (SE)
@@ -105,6 +99,8 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14824.m3u8
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids / Cartoons",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/boxart_images/1e4348ff-4394-4c40-888b-f637761ec85f-1063fba8-5d2f-4dac-81db-d47d790619d2_RGB_SD._RI_Va27vZS4kiviy1vPExF5KYAiJ0xuzmBN_TTW_.jpg" group-title="Kids 24/7 Series",Mr Bean Cartoon World
@@ -113,8 +109,7 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14825.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/logo-tab1.png" group-title="Kids 24/7 Series",The Simpsons
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27291.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids / Cartoons",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.kym-cdn.com/photos/images/original/001/018/269/b21.png" group-title="24/7 Series",The Big Bang theory
@@ -181,7 +176,7 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/12060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic HD
-http://live.savitar.tv/NatGEO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjE3OjEyIEFNJmhhc2hfdmFsdWU9LzNRK1lqMkhNR2crYWxoODJkNzl5dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19807.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild
