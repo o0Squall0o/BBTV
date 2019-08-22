@@ -162,6 +162,14 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://de1se01.v2beat.live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://socen.com/wp-content/uploads/2018/02/Cinemax.png" group-title="Movies",Cinemax (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO HD (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13685.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movies",HBO
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道2
@@ -178,12 +186,6 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://223.110.242.130:6610/gitv/live1/G_CCTV-6-HQ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",NewTV Super Movie
 http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movies",HBO HD
-http://peer3.savitar.tv/HBO/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI2OjEyIEFNJmhhc2hfdmFsdWU9MWMvOHpkVUdlV2FpVDRpcXFPQ2g1dz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlPaJw4zEbukP-Z0w6jev2s1k1hwrGIf2_qLTdqioD9x_4NtaN" group-title="Movies",HBO
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
 #EXTINF:tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg" group-title="Movies",KIX HD (Malaysia)
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 #EXTINF:tvg-logo="https://pbs.twimg.com/profile_images/986620703796551685/iBvojM0X_400x400.jpg" group-title="Movies",RAI MOVIE HD
@@ -674,6 +676,9 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",WWE SONY LIV
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",HG TV
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13835.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",DIY
 http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=27464616&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMwOjIxIEFNJmhhc2hfdmFsdWU9R281b0FCcFhydWRZY0pITittZGZsQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Style HD TV5Monde
