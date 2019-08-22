@@ -74,6 +74,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="International",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (SE)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/11551.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (UK)
@@ -171,7 +172,8 @@ http://210.210.155.35/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mycinema.live/assets/alt-logo.png" group-title="Movies",My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD(UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2683.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (US)
