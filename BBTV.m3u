@@ -119,18 +119,18 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="24/7 Series",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Shuffle Dance Music
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566424117/ei/1GddXfS3MpHF3LUP1KqE-AM/ip/103.241.62.76/id/UX1cdPqW5M8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRAIgUd6OUeXt57WdaSD8r0cbK7WMdVEV-3YKbtJXja4Q9BsCIDwK3sc1uTDnH2ENQCcOdyrODbv2onI7E6LZimNrf5hA/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Electro House & Bass Boosted
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566423874/ei/4mZdXZH_GJLNz7sPoM2HkAM/ip/103.241.62.76/id/-51fpdC2ntU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhANu7xEMyrwNwrgH45ae6PTOkHnK1RApIiaBLpdSMcpKmAiEA438y16Z7ABRerqsVTQvHsXbMzgLAw_tCGBkY3ubMzK4%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",Tropical House Radio | Kygo
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566423680/ei/IGZdXZmkEoHKoQOFnr_4Cg/ip/103.241.62.76/id/Wl2mrlhE5Ww.307/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhAO_vbk5Y3_SiX-p8o97z1kishIiFebhixwBsjH727J31AiEA8TNQlKJDCTxLJc-JCr5Rz9JkwOgfdFirmcRUBfcGxS0%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",中外文慢摇
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566424528/ei/cGldXZTtJOC5z7sPnYm86Ao/ip/103.241.62.76/id/qsWpzwcuCko.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhAIfed3hMxf6Xq4-SROUsHDohlVRyQEdCDEU2f_IhxU58AiA9xVZg7ZHiqf8utog1DV8s4nDHxG-l2gBaKNBSkCcmCA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV HD
-http://live.savitar.tv/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjEzOjM3IEFNJmhhc2hfdmFsdWU9SGYycnl6cDFwR3FEbjdxYVFJYnBpZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/2670.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV HD (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/20031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV HD (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/18076.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/200px-MTV_Logo_2010.svg.png" group-title="Music",MTV +1 (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="Music",MTV Music (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7316.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.medicinema-italia.org/wp-content/uploads/2017/09/RMC.jpg" group-title="Music",Radio Monte Carlo
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2018/08/logo_v2beat_page_small.png" group-title="Music",V2Beat
@@ -215,8 +215,11 @@ http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/3976.m3u8
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15712.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1200px-C%26I_logo.svg.png" group-title="Documentary",Crime + Investigation (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14943.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Documentary",THRILL (Malaysia)
 http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+
 
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
