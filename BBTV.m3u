@@ -309,6 +309,8 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23451.m3u8
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23450.m3u8
 #EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/11/nbcsnlogo.gif" group-title="Sport",NBC Sports Network HD (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9008.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="Sport",NBA TV (US)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9010.m3u8
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sport",Fox Sports News
