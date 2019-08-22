@@ -80,9 +80,9 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3995.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (SE)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network HD (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network HD(US)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network HD (US)
 http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/101266.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/pagefilms.com/wp-content/uploads/2017/03/PFn-CNAS.jpg" group-title="Kids / Cartoons", Adult Swim (US Cartoon Network)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
@@ -181,6 +181,30 @@ http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13685.m3u8
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/3067693_logo_hbo_2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Action & Adventure FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/1961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Comedy FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Crime & Triller FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Disney FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Drama & Romance FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Family FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Greats FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Hits FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Premiere FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Sci-Fi and Horror FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sky Cinema Hits FDH (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/20117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Sony Movie (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14790.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道2
@@ -205,6 +229,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://210.210.155.35/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mycinema.live/assets/alt-logo.png" group-title="Movies",My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mycinema.live/assets/alt-logo.png" group-title="Movies",Horror Channel
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3941.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/8010.m3u8
@@ -226,8 +253,8 @@ http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19807.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild (SE)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild (UK)
-http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/1968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild HD (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/1968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild HD (US)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/27465.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (SE)
@@ -258,10 +285,30 @@ http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15712.m3u8
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/1200px-C%26I_logo.svg.png" group-title="Documentary",Crime + Investigation (UK)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14943.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Documentary",THRILL (Malaysia)
-http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:tvg-logo="" group-title="Documentary",Discovery Turbo (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3978.m3u8
+#EXTINF:tvg-logo="https://media.info/i/lf/0/1517950807/5991.png" group-title="Documentary",Discovery Turbo (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14861.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Sport",ESPN
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9023.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/511px-Espn2.svg.png" group-title="Sport",ESPN 2
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9022.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2013/08/fox-sports1.jpg" group-title="Sport",Fox Sports 1
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9031.m3u8
+#EXTINF:-1 tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="Sport",Fox Sports 2
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9030.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/Astro_Supersport_Plus_PyeongChang_2018.png" group-title="Sport",Astro Supersports 1 (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23453.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowgoal.tv/wp-content/uploads/2017/11/astro2.png" group-title="Sport",Astro Supersports 2 (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23452.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.goal2sport.com/wp-content/uploads/2018/06/ASTRO3.png" group-title="Sport",Astro Supersports 3 (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23451.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_300.png" group-title="Sport",Astro Supersports 4 (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/23450.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportsmediawatch.com/wp-content/uploads/2011/11/nbcsnlogo.gif" group-title="Sport",NBC Sports Network HD (US)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/9008.m3u8
 #EXTINF:-1 tvg-id="RTSH Sport AL" tvg-name="RTSH Sport AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_SPORT.svg/150px-RTSH_SPORT.svg.png" group-title="Sport",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2017/01/fox-sports-news-logo.jpg" group-title="Sport",Fox Sports News
@@ -688,17 +735,16 @@ http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",HG TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",HG TV (US)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",DIY
-http://live.savitar.tv/DIY/myStream/chunks.m3u8?nimblesessionid=27464616&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMwOjIxIEFNJmhhc2hfdmFsdWU9R281b0FCcFhydWRZY0pITittZGZsQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",Food Network (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",DIY Network HD (US)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13101.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Style HD TV5Monde
 http://45.126.83.51/uq2663/h/h01/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://infographics.channelnewsasia.com/interactive/tapestry-asean/assets/THPHsc1wKP/cna-logo-690x132.png" group-title="News",Channel NewsAsia
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566423424/ei/IGVdXb-mC5KK3LUP6-SpkAM/ip/103.241.62.76/id/JvZVnBn6zEI.537/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhAMVW-x1RntriCZNLRmOYR_7dEsnwbSbAgMZjVIfnegRoAiAwCURm3wVJxBjA-MO3yJRw3ds2QqZlHGfhbdJ5WTHXmQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" group-title="News",TVBS新聞台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566422750/ei/fWJdXdSiLcem1Aasz5OwAQ/ip/103.241.62.76/id/Hu1FkdAOws0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRgIhANqILkXSIhKzZSPTnHMisXMQucCAV1mVAV8pIvk0QSuQAiEAgkJ5eFPSh-ws_BFzz92CtEgYAL6V1bIfu-UXb1YFzDQ%3D/file/index.m3u8
+
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="News",CNN
 http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mediaweek.com.au/wp-content/uploads/2016/04/Sky-News-1200x600.jpg" group-title="News",SKY NEWS HD
