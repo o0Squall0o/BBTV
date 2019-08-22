@@ -75,7 +75,7 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network
-http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3967.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27466.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior
@@ -88,6 +88,8 @@ http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU
 http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjAxOjExIEFNJmhhc2hfdmFsdWU9UFVNS0NaeWw1MnFiTUxVRzZpRGN0QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon
 http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjA0OjE5IEFNJmhhc2hfdmFsdWU9QlVaakl6VHdEbWZJblV1WVo1VGp5UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons", Adult Swim (US Cartoon Network)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/boxart_images/1e4348ff-4394-4c40-888b-f637761ec85f-1063fba8-5d2f-4dac-81db-d47d790619d2_RGB_SD._RI_Va27vZS4kiviy1vPExF5KYAiJ0xuzmBN_TTW_.jpg" group-title="Kids 24/7 Series",Mr Bean Cartoon World
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566411968/ei/YDhdXfT4KYGFz7sPjqmpgAs/ip/103.241.62.76/id/W3GzHLQsiqo.328/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/sg/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhALRhWWeJHWABEBGh62hqfJtzSac5HHYsMK5krjayep1UAiBVikCd6ReFYRvDs1usi0K_FViCKpObRaSExW_3X4slcA%3D%3D/file/index.m3u8
