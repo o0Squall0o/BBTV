@@ -287,7 +287,7 @@ http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14943.m3u8
 #EXTINF:tvg-logo="" group-title="Documentary",Discovery Turbo (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3978.m3u8
-#EXTINF:tvg-logo="https://media.info/i/lf/0/1517950807/5991.png" group-title="Documentary",Discovery Turbo (UK)
+#EXTINF:tvg-logo="https://media.info/i/lf/0/1517950807/5991.png" group-title="Documentary",Sony Crime Channel (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14861.m3u8
 
 
@@ -739,7 +739,7 @@ https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",HG TV (US)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.digitaltveurope.com/files/2019/03/Screen-Shot-2019-03-25-at-12.53.06.png" group-title="Lifestyle",Food Network (UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",Food Network (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3991.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lifestyle",DIY Network HD (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/13101.m3u8
