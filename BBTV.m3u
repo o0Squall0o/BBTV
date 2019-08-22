@@ -189,16 +189,30 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11578.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild (UK)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/1968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel HD (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/18622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel FHD (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/1986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel HD (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14863.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Channel (US)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15717.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery (US)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Ch1
 http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery Ch2
 rtmp://58.200.131.2:1935/livetv/discovery
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery
-http://live.savitar.tv/ID/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIzOjI2IEFNJmhhc2hfdmFsdWU9cll2cmhVN0xvK1FyWlUyMHQ0WGMvUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="Documentary",History
-http://live.savitar.tv/History/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjIyOjM2IEFNJmhhc2hfdmFsdWU9bEt5QWlYRGZIYkYzWlFTWW5MTnZHdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15497.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png" group-title="Documentary",Investigation Discovery FHD (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/18071.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="Documentary",History HD (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/3976.m3u8
+#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/220px-History_Logo.svg.png" group-title="Documentary",History HD (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15712.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Documentary",CGTN DOCUMENTARY
 http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Documentary",THRILL (Malaysia)
