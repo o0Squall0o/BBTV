@@ -131,10 +131,29 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14768.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/MTV_Music_2017_logo.svg/1200px-MTV_Music_2017_logo.svg.png" group-title="Music",MTV Music (UK)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Base (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Classic (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Dance HD (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13088.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Club (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Hits (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Lives FHD (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13090.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Music (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV Rock (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/7315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music",MTV OMG (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.medicinema-italia.org/wp-content/uploads/2017/09/RMC.jpg" group-title="Music",Radio Monte Carlo
 http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.vibee.tv/wp-content/uploads/2018/08/logo_v2beat_page_small.png" group-title="Music",V2Beat
 http://de1se01.v2beat.live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movies",港天映电影频道
 http://45.126.83.51/qwr9ew/s/s33/index2.m3u8
