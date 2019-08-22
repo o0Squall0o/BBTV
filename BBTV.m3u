@@ -108,18 +108,18 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14825.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/boxart_images/1e4348ff-4394-4c40-888b-f637761ec85f-1063fba8-5d2f-4dac-81db-d47d790619d2_RGB_SD._RI_Va27vZS4kiviy1vPExF5KYAiJ0xuzmBN_TTW_.jpg" group-title="Kids 24/7 Series",Mr Bean Cartoon World
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566411968/ei/YDhdXfT4KYGFz7sPjqmpgAs/ip/103.241.62.76/id/W3GzHLQsiqo.328/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/gcr/sg/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgcr%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIhALRhWWeJHWABEBGh62hqfJtzSac5HHYsMK5krjayep1UAiBVikCd6ReFYRvDs1usi0K_FViCKpObRaSExW_3X4slcA%3D%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg" group-title="Kids 24/7 Series",Tom & Jerry
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566411288/ei/uDVdXaD_JoH_ogP4rpk4/ip/103.241.62.76/id/9KZKJpOPo_E.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgS9VmBEc7yeDmG9EEYNtOyGhNImjgw_9MqgXKu09yE5kCIQCa8NfQy2PJmRV46ouM0yMeyrGS0SMdyBtSqPM7UWh0cQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/61/Peppa_Pig.png" group-title="Kids 24/7 Series",Peppa Pig
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1566424990/ei/PWtdXfi2N9vAz7sPheqoqAQ/ip/103.241.62.76/id/_38n2Xowe1Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cgo%2Citag%2Cplaylist_type/sig/ALgxI2wwRQIgVy77DdSxxexOYG8Oo4iupTYQQpGhIhrzg_RNNQCPhH4CIQC0NQUjj7a6WdH_FxE5_JrEDXJYf7jSR-9JkO3KjiigUw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/the-simpsons/logo-tab1.png" group-title="Kids 24/7 Series",The Simpsons
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27291.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="Kids / Cartoons",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.kym-cdn.com/photos/images/original/001/018/269/b21.png" group-title="24/7 Series",The Big Bang theory
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="24/7 Series",FRIENDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pm1.narvii.com/6406/6130e4533d297b41709d8f8ca3289c1bfedf8c0b_00.jpg" group-title="24/7 Series",F.R.I.E.N.D.S
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/q3XjkyKO3-M/hqdefault.jpg" group-title="24/7 Series",周星弛电影台HD
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
