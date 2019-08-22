@@ -80,18 +80,24 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3967.m3u8
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27466.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior(UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior(US)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids / Cartoons",Disney XD
-http://live.savitar.tv/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjQ3OjAwIEFNJmhhc2hfdmFsdWU9TGRvWkh1dVdnRy9WWlpXL2Y1ZmlRZz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel
-http://live.savitar.tv/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDEwOjUyOjAzIEFNJmhhc2hfdmFsdWU9N3NWOEx1a0xoYWY2dEZDSVVYRTJhdz09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons
-http://live.savitar.tv/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjAxOjExIEFNJmhhc2hfdmFsdWU9UFVNS0NaeWw1MnFiTUxVRzZpRGN0QT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/1984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel (US)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/22823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons (SE)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons (US)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27457.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon
-http://live.savitar.tv/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjA0OjE5IEFNJmhhc2hfdmFsdWU9QlVaakl6VHdEbWZJblV1WVo1VGp5UT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14825.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/boxart_images/1e4348ff-4394-4c40-888b-f637761ec85f-1063fba8-5d2f-4dac-81db-d47d790619d2_RGB_SD._RI_Va27vZS4kiviy1vPExF5KYAiJ0xuzmBN_TTW_.jpg" group-title="Kids 24/7 Series",Mr Bean Cartoon World
