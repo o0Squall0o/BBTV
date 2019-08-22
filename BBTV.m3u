@@ -167,7 +167,7 @@ http://210.210.155.35/uq2663/h/h04/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mycinema.live/assets/alt-logo.png" group-title="Movies",My Cinema
 http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD(UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/8010.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2683.m3u8
@@ -175,12 +175,20 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2683.m3u8
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/12060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/14666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/3561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic (US)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15714.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic Ch1
 http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/19807.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/05/national-geographic-channel-logo.jpg" group-title="Documentary",National Geographic Ch2
 rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild
-http://live.savitar.tv/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjE4OjE1IEFNJmhhc2hfdmFsdWU9VDFIcEZ0Qko0Y29ZanJ2ODhPQ3BzQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild (SE)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/11578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pmcvariety.files.wordpress.com/2014/03/nat_geo_wild.jpg" group-title="Documentary",National Geographic Wild (UK)
+http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/1968.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery HD
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/15717.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Discovery_logo.svg/1024px-Discovery_logo.svg.png" group-title="Documentary",Discovery (US)
