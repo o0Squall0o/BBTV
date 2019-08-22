@@ -60,11 +60,11 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 http://edge.vediostream.com:80/abr/tvikim/live/tvikim_source/chunks.m3u8
 
 #EXTINF:tvg-logo="https://image.roku.com/developer_channels/prod/11f73ddf9ac6bcf550a8817c4024fe0e206e460ebf724c45a60273604f8e6308.png" group-title="International",Comedy Central
-http://live.savitar.tv/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI0OjIzIEFNJmhhc2hfdmFsdWU9SUxyNFJyblJFMklsVlArUGYvd2ppQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
-#EXTINF:tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/bbc-america-logo1.jpg" group-title="International",BBC America
-http://live.savitar.tv/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjI1OjMxIEFNJmhhc2hfdmFsdWU9STI4MFFZYXRBRjZxWHZyZWRlOXNXQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14762.m3u8
+#EXTINF:tvg-logo="https://pmcvariety.files.wordpress.com/2014/02/bbc-america-logo1.jpg" group-title="International",BBC World News
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/26270.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" group-title="International",CNN
-http://peer2.savitar.tv/CNN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjM0OjI2IEFNJmhhc2hfdmFsdWU9VnZobnRPd2R6WE02d0xzRGF2bWVmQT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3995.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/1200px-Game_Show_Network_2018.svg.png" group-title="International",Game Show Network
 http://live.savitar.tv/GSN/myStream/chunks.m3u8?nimblesessionid=27464823&wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDE5IDExOjMxOjI1IEFNJmhhc2hfdmFsdWU9RmNjbzg0TVB1NXBOeWhOOTdBcnlDUT09JnZhbGlkbWludXRlcz0zNjAmaWQ9MA==
 #EXTINF:tvg-logo="https://www.paramount.com/sites/all/modules/custom/pmount_grid/images/paramount-logo-grid-new.png" group-title="International",Paramount Network
@@ -74,17 +74,23 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="International",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (SE)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/11551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="Kids / Cartoons",Cartoon Network (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids / Cartoons", Adult Swim (US Cartoon Network)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/pagefilms.com/wp-content/uploads/2017/03/PFn-CNAS.jpg" group-title="Kids / Cartoons", Adult Swim (US Cartoon Network)
 http://channels227070.clientportal.link:80/live/lEOIRqF612/v2ijUq448/13103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang (SE)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/11550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang (UK)
+http://channels227070.clientportal.link:80/live/Argent/AdviVY579/1962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="Kids / Cartoons",Boomerang (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27466.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/3969.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="Kids / Cartoons",Disney Junior (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids / Cartoons",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Kids / Cartoons",Disney XD (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/2675.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pinclipart.com/picdir/middle/419-4194509_disney-channel-logo-png-clipart.png" group-title="Kids / Cartoons",Disney Channel (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/1984.m3u8
@@ -96,7 +102,7 @@ http://channels227070.clientportal.link:80/live/Argent/AdviVY579/18673.m3u8
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14824.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/nickelodeon/images/5/51/Untitled_drawing_by_chalkbugs-dd8dxoq_(1).png" group-title="Kids / Cartoons",Nicktoons (US)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/27457.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2012/09/nickelodeon_logo_a_l.jpg" group-title="Kids / Cartoons",Nickelodeon (UK)
 http://channels227070.clientportal.link:80/live/Argent/AdviVY579/14825.m3u8
 
 
